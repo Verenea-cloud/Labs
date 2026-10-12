@@ -7,3 +7,5 @@ function inc(n) {
 const b = inc(a);
 
 console.dir({ a, b });
+
+console.log('Increment function completed successfully');
