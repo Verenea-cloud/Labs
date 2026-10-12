@@ -4,7 +4,7 @@ const arr = [
     100, null, undefined, 50, 'student'
 ];
 
-const obj = {};
+const obj = Object.create(null);
 
 function countTypes(arr) {
     for (const element of arr) {
