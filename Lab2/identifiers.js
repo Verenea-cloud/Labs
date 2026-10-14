@@ -1,4 +1,4 @@
-const name = 'Veronika';
+let name = 'Veronika';
 
 const birthYear = 2008;
 
